@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LOCINDOOR](https://github.com/Bistrel2002/MOONSHOT-PROJECT)
 
-- 🌱 I’m currently learning **how to build AI models**
+- 🌱 I’m currently learning **how to build AI models, and seeking for an apprenticeship in AI Engineering**
 
 - 👨‍💻 Some of my projects are available at [https://bis-portfo.onrender.com](https://bis-portfo.onrender.com)
 
