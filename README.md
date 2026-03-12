@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bistrel2002" alt="bistrel2002" /></a> </p>
 
-- 🔭 I’m currently working on [AI4Finance](https://github.com/Bistrel2002/AI4Finance/tree/main)
+- 🔭 I’m currently working on [Anomaly](https://github.com/Bistrel2002/Anomaly)
 
 - 🌱 I’m currently learning **how to build AI models, and seeking for an apprenticeship in AI Engineering**
 
